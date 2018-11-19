@@ -25,6 +25,9 @@ dependencies:
 - name: node-http-watch-pipeline-activity
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: open-liberty
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
 - name: spring-boot-http-gradle
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
