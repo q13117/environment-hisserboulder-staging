@@ -43,6 +43,9 @@ dependencies:
 - name: spring-boot-watch-pipeline-activity
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.0
+- name: test-golang
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: vertx-rest-prometheus
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
