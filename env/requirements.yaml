@@ -34,6 +34,9 @@ dependencies:
 - name: rust-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: sonyardccdemo01
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: spring-boot-http-gradle
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
