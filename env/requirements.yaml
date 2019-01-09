@@ -45,7 +45,7 @@ dependencies:
   version: 1.0.0
 - name: test-golang
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
+  version: 0.0.2
 - name: vertx-rest-prometheus
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
