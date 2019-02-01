@@ -58,3 +58,6 @@ dependencies:
 - name: voting-app-vote-python
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: voting-app-worker-dotnet
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
